@@ -1,4 +1,4 @@
-AWS Builder's Day Pittsburgh
+AWS Builder's Day Pittsburgh 07/25/19
 
 ---
 
